@@ -4,9 +4,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other to contribute on Open Source projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to and play pubg 🤣
+- ⚡ Fun fact: I love to play pubg 🤣
 
 
-### Connect with me:
-[<img align="left" alt="Aman kumar Sahani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
