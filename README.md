@@ -29,7 +29,9 @@
   <img alt="github" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60px" />
   <img alt="npm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" width="80px" />
 </p>
-
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Kumar-Sahani&layout=compact&count_private=true&theme=buefy" alt="top-langs" height="180" /> <img src="https://github-readme-stats.vercel.app/api/?username=Aman-Kumar-Sahani&layout=compact&count_private=true&show_icons=true&theme=radical" alt="rocker2102" height="180" />
+</p>
 
 
 
