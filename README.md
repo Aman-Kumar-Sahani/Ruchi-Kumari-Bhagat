@@ -1,4 +1,4 @@
-### Hi there, Iam Aman 👋
+### Hi there, Iam Ruchi 👋
 [![HitCount](http://hits.dwyl.com/Aman-Kumar-Sahani/Aman-Kumar-Sahani.svg)](http://hits.dwyl.com/Aman-Kumar-Sahani/Aman-Kumar-Sahani)
 
 ## I'm a Student , Developer, and Quick Learner!!
