@@ -30,7 +30,7 @@
   <img alt="npm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" width="80px" />
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchi-Kumari-Bhagat&layout=compact&count_private=true&theme=buefy" alt="top-langs" height="180" /> <img src="https://github-readme-stats.vercel.app/api/?username=Ruchi-Kumari-Bhagat&layout=compact&count_private=true&show_icons=true&theme=radical" alt="ruchikumaribhagat" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchi-Kumari-Bhagat&layout=compact&count_private=true&theme=buefy" alt="top-langs" height="180" /> <img src="https://github-readme-stats.vercel.app/api/?username=Ruchi-Kumari-Bhagat&layout=compact&count_private=true&show_icons=true&theme=radical" alt="Aman Kumar Sahani" height="180" />
 </p>
 
 
